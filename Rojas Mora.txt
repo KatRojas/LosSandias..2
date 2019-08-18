@@ -1,6 +1,4 @@
-﻿Este archivo se edita en test
- 
- Motocross
+﻿Motocross
 
 Modalidad espectacular del motociclismo, en la que se combina la velocidad con
 la destreza necesaria para controlar la motocicleta ante las irregularidades del
